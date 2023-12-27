@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Rey Villa! 
 
-<!--
-**ReyVilla444/ReyVilla444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Credential Stuffing (cs50 final project)</b>
+  - (https://github.com/ReyVilla444/CS50-Final-Project/blob/253b4717975223481a03c640f9145086eeb24f8b/Harvard%20Final%20Project.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Certifications:</h3>
+- https://cs50.harvard.edu/certificates/20f46a3c-62dd-43e9-bc95-219a6d269d8d
+
+[youtube]: https://youtube.com/@reyvilla87?si=yLRYhBuNXrRQ6qdJ
+[linkedin]: www.linkedin.com/in/rey-villa-90b02128a
+
